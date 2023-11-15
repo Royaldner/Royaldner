@@ -1,3 +1,5 @@
+<img align="right" src=https://visitor-badge.laobi.icu/badge?page_id=Royaldner.Royaldner-badge&left_color=red&right_color=green/>
+
 ### Hi there 👋
 
 <!--
