@@ -53,6 +53,8 @@
 <div align="left">
   <h3>STATS</h3>
     <img src=https://github-readme-stats.vercel.app/api?username=Royaldner&theme=yeblu&show_icons=true/>
+    <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Royaldner&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
 </div>
 
 
