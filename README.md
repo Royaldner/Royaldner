@@ -1,11 +1,11 @@
-<img src=https://visitor-badge.laobi.icu/badge?page_id=Royaldner.Royaldner-badge&left_color=red&right_color=green/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Royaldner" />
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Royaldner" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=07F74C&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Hey+There!;I'm+Roy+Aldner+Labado)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=07F74C&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Hey+There!;I'm+Roy+Aldner+Labado" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=07F74C&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey+There!;I'm+Roy+Aldner+Labado)](https://git.io/typing-svg)
+
 
 <!--
 **Royaldner/Royaldner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
