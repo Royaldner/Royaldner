@@ -51,7 +51,7 @@
 <br/>
 <div align="left">
   <h3>STATS</h3>
-    <img src=https://github-readme-stats.vercel.app/api?username=Royaldner&theme=dark&show_icons=true/>
+    <img src=https://github-readme-stats.vercel.app/api?username=Royaldner&theme=yeblu&show_icons=true/>
 </div>
 
 
