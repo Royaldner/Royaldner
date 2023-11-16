@@ -48,6 +48,7 @@
     <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 <br/>
+<br/>
 <hr/>
 <div align="left">
   <h3>STATS</h3>
