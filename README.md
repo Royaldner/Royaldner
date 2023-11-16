@@ -24,7 +24,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-<br/>
+<hr/>
 <h3>🧰 Languages and Tools I can work with</h3>
 <div align="center">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -48,7 +48,7 @@
     <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 <br/>
-<br/>
+<hr/>
 <div align="left">
   <h3>STATS</h3>
     <img src=https://github-readme-stats.vercel.app/api?username=Royaldner&theme=yeblu&show_icons=true/>
