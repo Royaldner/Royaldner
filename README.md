@@ -49,5 +49,8 @@
 </div>
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royaldner&theme=dark&show_icons=true)
+<div align="left">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royaldner&theme=dark&show_icons=true)
+</div>
+
 
