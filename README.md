@@ -7,7 +7,7 @@
 <h3 align="center">Software Developer, UX/UI Designer 🇨🇦</h3>
 <br/>
 <p align="center">
-    I am a graduating student of Software Development: Secure Desktop, Mobile and Web Applications Program from Vanier College.  I am dedicated to..
+    Results-driven software developer with a recent computer science degree, I'm passionate about innovating solutions to make life easier and change the world for the better. Skilled in modern programming languages and methodologies, I am eager to join a dynamic team, and a role where I can contribute significantly and continue my professional growth.
 </p>
 <br/>
 <div align="center"> 
