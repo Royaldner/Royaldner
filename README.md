@@ -20,7 +20,7 @@
   <a href="https://github.com/Royaldner/" target="_blank">
      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
   </a>  
-  <a href="https://github.com/Royaldner/" target="_blank">
+  <a href="https://royaldner.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
